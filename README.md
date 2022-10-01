@@ -1,0 +1,2 @@
+# JavaCampProject
+ Java Inheritance Exercise
